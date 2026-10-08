@@ -1,5 +1,5 @@
 let ans:Array<any> = new Array()
-
+console.log("main push")
 const nums: number[] = [1, 3, 5, 7]
 
 ans.push(nums.map(x => x + 1))
