@@ -3,7 +3,7 @@ import axios from "axios"
 function log(info:any) {
     console.log(info)
 }
-
+console.log(1)
 interface userInfo{
     id: number
     name:string
